@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Townsend Crawford",
+      "email": "townsendcrawford@emergent.com",
+      "phone": "+1 (994) 481-2607"
+    },
+    {
+      "id": 2,
+      "name": "Mona Cabrera",
+      "email": "monacabrera@emergent.com",
+      "phone": "+1 (935) 402-3255"
+    },
+    {
+      "id": 3,
+      "name": "Angelina Keller",
+      "email": "angelinakeller@emergent.com",
+      "phone": "+1 (992) 504-2019"
+    },
+    {
+      "id": 4,
+      "name": "Weaver Marks",
+      "email": "weavermarks@emergent.com",
+      "phone": "+1 (913) 437-2425"
+    },
+    {
+      "id": 5,
+      "name": "Young Mullins",
+      "email": "youngmullins@emergent.com",
+      "phone": "+1 (827) 549-3108"
+    },
+    {
+      "id": 6,
+      "name": "Alice Parsons",
+      "email": "aliceparsons@emergent.com",
+      "phone": "+1 (919) 401-2275"
+    },
+    {
+      "id": 7,
+      "name": "Dollie Erickson",
+      "email": "dollieerickson@emergent.com",
+      "phone": "+1 (879) 468-3474"
+    },
+    {
+      "id": 8,
+      "name": "Claudette Lara",
+      "email": "claudettelara@emergent.com",
+      "phone": "+1 (993) 534-2817"
+    },
+    {
+      "id": 9,
+      "name": "Rowe Church",
+      "email": "rowechurch@emergent.com",
+      "phone": "+1 (841) 497-2211"
+    },
+    {
+      "id": 10,
+      "name": "Conley Gallagher",
+      "email": "conleygallagher@emergent.com",
+      "phone": "+1 (983) 584-2646"
+    },
+    {
+      "name": "Roberto Stepic",
+      "email": "roberto.stepic@gmail.com",
+      "phone": "0998302482",
+      "id": 11
+    }
+  ]
+}
